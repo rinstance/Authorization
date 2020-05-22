@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Authorization</string>
+    <string-array name="accounts">
+        <item>rinat@mail.ru Qwerty123 Ринат Нур</item>
+        <item>danil@gmail.ru Tuatara5 Данил Асул</item>
+        <item>damir@mail.ru aaaaaleX2 Дамир Ша</item>
+        <item>rustem@kail.des kazaN12345 Рустем Сай</item>
+    </string-array>
+</resources>
